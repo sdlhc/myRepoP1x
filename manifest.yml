@@ -8,4 +8,4 @@ applications:
   host: sdlh-p1x1
   domain: eu-gb.mybluemix.net
   services:
-  - asrDCBCloudantNoSQL
+  - CloudantNoSQLDB-ov
