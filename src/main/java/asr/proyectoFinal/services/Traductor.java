@@ -12,7 +12,7 @@ import com.ibm.watson.developer_cloud.language_translator.v2.model.TranslateOpti
 
 
 public class Traductor {
-	public static String transalte(String palabra)
+	public static String translate(String palabra)
 	{
 		LanguageTranslator service = new LanguageTranslator();
 		service.setUsernameAndPassword("58d7d671-1c6e-46f1-b854-69f96372a405", "FYQ5ztkPIGr8");
